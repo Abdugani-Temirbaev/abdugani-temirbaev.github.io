@@ -67,6 +67,9 @@ body {
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
+.linkStyle {
+  color: #007bff; }
+
 hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
