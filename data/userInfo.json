@@ -1,0 +1,23 @@
+{
+    "f_name": "Abdugani",
+    "l_name": "Temirbaev",
+    "email": "abdugani.temirbaev@gmail.com",
+    "phone": "(998) 90 980-1496",
+    "city": "Tashkent, UZ",
+    "position": "A Mobile Developer",
+    "social_network": [
+        {
+            "icon": "icon-instagram",
+            "link": "https://www.instagram.com/abdugani_t"
+        },
+        {
+            "icon": "icon-telegram",
+            "link": "https://t.me/abdugani_t"
+        },
+        {
+            "icon": "icon-git",
+            "link": "https://github.com/Abdugani-Temirbaev"
+        }
+    ],
+    "cv": "https://drive.google.com/file/d/1jUf_xa0wSK2Iy4m08iAjZEfPQPKZZRHw/view?usp=sharing"
+}
